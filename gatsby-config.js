@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Hernán García`,
-    description: `Software Engineer by day.. Soul Light Worker by night`,
+    description: `Personal website to exhibit my software engineering skills.`,
     author: `@hernanjkd`,
   },
   plugins: [
